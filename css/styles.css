@@ -1,0 +1,17 @@
+body {
+    background-color: #D8E3E7;
+  }
+  hr {
+    background-color: rgba(192, 191, 191, 0);
+    color: rgba(128, 128, 128, 0.5);
+    border-style: dotted none none;
+    border-width: 5px;
+    border-radius: 0px;
+    width: 10%;
+  }
+  img {
+    max-height:250px;
+  }
+  h1, h3 {
+      color:#66BFBF;
+  }
