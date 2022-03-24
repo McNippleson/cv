@@ -15,3 +15,7 @@ body {
   h1, h3 {
       color:#66BFBF;
   }
+
+  #mainpic {
+    border-radius: 100%;
+  }
